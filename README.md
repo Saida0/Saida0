@@ -1,56 +1,59 @@
 <h1 align="center">Hi, I'm Sumaya Binte Saida 👋</h1>
 
 <p align="center">
-  <em>CS Student &nbsp;·&nbsp; Digital Marketer &nbsp;·&nbsp; Tech Enthusiast</em><br/>
-  Bridging creativity with code — from data-driven campaigns to IoT systems.
+  <em>Final-year CSE student at IUB &nbsp;·&nbsp; Networking & Security (CCNA track) &nbsp;·&nbsp; Web Developer &nbsp;·&nbsp; Digital Marketer</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumaya-b-saida-111700221/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://twitter.com/SaidaSumaya"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>&nbsp;
-  <a href="https://www.facebook.com/sumaya.binte.saida/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>&nbsp;
-  <a href="https://www.instagram.com/su_uma_08/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/SaidaSumaya"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-- 🎓 Pursuing a **Bachelor's in Computer Science** with a passion for building real-world solutions
-- 💼 Background in **digital marketing** — I understand how technology meets business strategy
-- 🔭 Currently building an **IoT-based University Laboratory Asset Management System**
-- 🌱 Learning **data structures, algorithms, and web development**
-- 💡 Interested in **IoT, OOP, and how software can solve everyday problems**
-- 📍 Based in **Bangladesh**
+- 🎓 Final-year **BSc in Computer Science & Engineering** at Independent University, Bangladesh (graduating Dec 2026)
+- 🌐 Preparing for the **Cisco CCNA** and building network security labs in Packet Tracer
+- 💻 Building full-stack web apps with **React, Next.js and Node.js**
+- 📈 Digital marketer since 2022, now **Marketing Head at Hariken**
+- 🎯 Looking for entry-level roles in **technical marketing, digital marketing or IT**, remote or abroad
+- 📍 Based in **Dhaka, Bangladesh**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Paradigms**
+**Networking & Security**
 
-`Java` `OOP` `Data Structures`
+`Cisco IOS` `Packet Tracer` `VLANs` `ACLs` `SSH/AAA` `DHCP snooping` `DAI` `Linux`
 
-**Tools & Platforms**
+**Web Development**
 
-`Git` `GitHub` `IoT` `VS Code`
+`JavaScript` `TypeScript` `React` `Next.js` `Tailwind` `Node.js/Express` `Prisma` `SQL` `Firebase` `Flutter/Dart` `Java` `Python`
 
 **Marketing & Analytics**
 
-`Google Analytics` `Meta Ads` `SEO`
+`Meta Ads Manager` `Google Ads` `Google Analytics` `SEO` `Canva` `Figma`
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔬 [IoT-Based University Lab Asset Management System](https://github.com/Saida0/IoT_Based_University_Laboratory_Asset_Management_System)
-> A smart system for tracking and managing university laboratory equipment in real time using IoT. Reduces manual overhead and prevents equipment loss.
+### 🔐 [CCNA Security Labs](https://github.com/Saida0/ccna-security-labs)
+> Cisco network security labs with full configs, test plans and write-ups. Lab 1 secures a small-office network (VLANs, SSH/AAA, port security, DHCP snooping, DAI, BPDU guard) and tests it against 5 attacks. Lab 2 builds a zone-based ACL firewall checked with 12 test cases.
 
-### 💻 [OOP Project](https://github.com/Saida0/OOPproject)
-> Java project demonstrating core OOP principles — encapsulation, inheritance, polymorphism, and abstraction through practical examples.
+### 🧵 [RMG SourceHub](https://github.com/Saida0/rmg-sourceHUB) · [Live](https://rmg-sourcehub-aoby.onrender.com)
+> B2B marketplace connecting Bangladeshi garment factories with international buyers: RFQ, quote and order flow, production tracking, real-time messaging and role-based dashboards. React, Node.js/Express, Prisma, Socket.io.
 
-### ☕ [Java Course Exercises](https://github.com/Saida0/course)
-> Hands-on Java exercises and notes from my CS coursework, covering fundamentals to intermediate concepts.
+### 🏭 [Sourcing Fair website](https://github.com/Saida0/sourcing-fair) · [Live](https://sourcing-fair-ybio.vercel.app)
+> Client project: rebuilding a garment-accessories company's website in Next.js on Vercel, replacing their old WordPress site.
+
+### 🎮 [Real-time Tic Tac Toe](https://github.com/Saida0/Flutter_CSC464_Summer_2026_Final_Project-Group2-Section-1-P002)
+> Flutter game with single-device and online multiplayer modes. Players join a room by code and moves sync live through Cloud Firestore. University team project.
+
+### 🌱 [Swapnochura NGO website](https://github.com/Saida0/swapnochura-ngo) · [Live](https://swapnochura-ngo.vercel.app)
+> Website for an NGO, built with React, Vite and Tailwind CSS.
 
 ---
 
@@ -65,10 +68,4 @@
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on interesting projects or just having a good conversation about tech, marketing, or ideas. Feel free to reach out!
-
----
-
-<p align="center">
-  <em>⭐ From <a href="https://github.com/Saida0">Saida0</a> — turning ideas into code, one commit at a time.</em>
-</p>
+Open to job opportunities and collaborations in networking, web development and marketing. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/sumaya-b-saida-111700221/).
